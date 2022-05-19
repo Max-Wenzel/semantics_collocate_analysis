@@ -1,4 +1,4 @@
-# Using-Collocates-to-Examine-Anonymous-Expression-of-Self-and-Perception-of-Others
+# Using Collocates to Examine Anonymous Expression of Self and Perception of Others
 
 Paper.pdf contains the full paper on examining the collocates found in reddit comments and how they relate to expose how people behave anonymously and contains the essential code that was used to produce the results at the end of the document.
 
